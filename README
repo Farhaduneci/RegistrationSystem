@@ -1,0 +1,12 @@
+University Course Registration System
+=====================================
+
+The program is a basic system for the maintenance of students' academic records at a university.
+
+> Available Commands:
+
+1. Unit Selection
+2. Grade Entry
+3. Show Averages
+4. Top Students of each major
+5. Failed Students
